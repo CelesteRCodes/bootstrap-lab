@@ -1,0 +1,47 @@
+img{
+  max-width: 100%;
+  height: 50%;
+}
+
+.carousel-item{
+  height: 50%;
+}
+#mainMenu .nav-link{
+  color:skyblue;
+}
+#mainMenu .nav-link:hover{
+  background:slateblue; 
+  border-radius: 5px; 
+  color:thistle;
+}
+
+#mainMenu .nav-link.active{
+  background:yellow; 
+  border-radius: 5px; 
+  color:thistle;
+}
+
+.carousel-control-next-icon{
+  background-color:rebeccapurple;
+}
+
+.carousel-control-prev-icon{
+  background-color:rebeccapurple;
+}
+
+#work{
+  padding-top:0px;
+}
+
+#contact{
+  background: url(https://images.pexels.com/photos/2694037/pexels-photo-2694037.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+
+#footer ul a{
+  color: #262626;
+  text-decoration: none;
+}
+
+#footer ul a:hover{
+  color:seagreen
+}
